@@ -1,4 +1,4 @@
-# DDMS_Course_Project
+# DBMS_Course_Project
 
 
 How to Run the Code?
